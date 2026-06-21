@@ -23,10 +23,10 @@ for misuse.
 
 ## Installation
 
-\`\`\`bash
+```bash
 git clone https://github.com/Emoytech/tcp-port-scanner.git
 cd tcp-port-scanner
-\`\`\`
+```
 
 ## Usage
 
